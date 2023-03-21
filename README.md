@@ -5,7 +5,8 @@ This project helps the user organize their workday by creating these hour blocks
 
 ## Project Demo
 
-![demo](/assets/demo.gif)
+![Untitled_ Mar 21, 2023 12_37 AM](https://user-images.githubusercontent.com/116623940/226522382-058e3996-4364-4bb0-8106-768e178d5382.gif)
+
 
 ## Review
 
