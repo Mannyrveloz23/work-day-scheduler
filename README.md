@@ -1,8 +1,5 @@
 # Work-Day-Scheduler
 
-## Link to Website 
-https://bytesizeerror.github.io/Work-Day-Scheduler/
-
 ## About the Project
 This project helps the user organize their workday by creating these hour blocks that the user can edit. Each block has a save button that can save the text they wrote so when the page is refreshed the text will be saved. The time blocks are also color coded to help the user easily distinguish between past, present, and future.
 
